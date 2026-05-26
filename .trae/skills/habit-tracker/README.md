@@ -231,6 +231,12 @@ print(tracker.generate_markdown_report())
 └─────────────────────────────────────────────┘
 ```
 
+## 🔗 Skill 链接
+
+**GitHub 完整地址**：
+- Skill 源码：https://github.com/fupengyu1/trae-skills-submission/blob/main/.trae/skills/habit-tracker/SKILL.md
+- 本地路径：`.trae/skills/habit-tracker/SKILL.md`
+
 ## 📁 文件结构
 
 ```
